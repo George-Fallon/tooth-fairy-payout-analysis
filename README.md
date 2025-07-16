@@ -1,4 +1,4 @@
-# tooth-fairy-payout-analysis
+# Tooth Fairy Payout Analysis
 An Excel deep dive into Tooth Fairy economics — payouts, inflation, and pocket money, and molars
 
 ## Project Overview
@@ -28,6 +28,19 @@ Metrics: <img width="729" height="345" alt="Metrics_screenshot" src="https://git
 Dashboard: <img width="963" height="733" alt="Dashboard_screenshot" src="https://github.com/user-attachments/assets/bf9ada61-9941-4b0a-bbbd-211874591edf" />
 
 > *You can find all dashboard images in the `/screenshots/` folder.*
+
+### 🛠️ Future Improvements
+
+- Add real-world data (e.g., survey stats, inflation from ONS or BoE)
+- Automate inflation adjustment using a linked reference table
+- Make the dashboard interactive with drop-down filters (e.g., by decade)
+- Break out regional trends if additional data becomes available
+- Try a remake of this project using Power BI or Tableau for comparison
+
+### 💭 My Thoughts
+
+Overall, I'm really happy with how this project turned out — and I had a lot of fun with it, especially given the quirky nature of the dataset. One of the strongest elements was the structure of the metrics and the creative comparisons — particularly turning average pocket money into a benchmark for tooth value. I also feel good about my time management; I was able to plan, build, and wrap up the entire thing smoothly. If I had more data (like region, age group, or real economic indicators), this could have gone even further — but for a fast, focused portfolio piece, I think it nails the brief.
+
 
 
 
