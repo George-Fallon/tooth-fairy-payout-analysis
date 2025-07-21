@@ -29,15 +29,16 @@ Dashboard: <img width="963" height="733" alt="Dashboard_screenshot" src="https:/
 
 > *You can find all dashboard images in the `/screenshots/` folder.*
 
-### 🛠️ Future Improvements
+### Future Improvements
 
-- Add real-world data (e.g., survey stats, inflation from ONS or BoE)
-- Automate inflation adjustment using a linked reference table
-- Make the dashboard interactive with drop-down filters (e.g., by decade)
-- Break out regional trends if additional data becomes available
-- Try a remake of this project using Power BI or Tableau for comparison
+- Demographic Analysis: Add age, gender, or geographic data to understand how different student groups use AI.
+- Time of Day Trends: Explore how AI usage changes across different hours of the day or days of the week.
+- AI Prompt Analysis: If available, dive deeper into the content of prompts to classify by intent (e.g., brainstorming vs editing).
+- Sentiment Scoring: Use NLP to analyze satisfaction comments (if present) and compare them with ratings.
+- Compare First vs. Repeat Users: See how behavior changes between a student’s first AI session and subsequent ones.
+- AI Assistance Impact: Create a more advanced model to quantify the impact of AI assistance levels on task outcomes.
 
-### 💭 My Thoughts
+### My Thoughts
 
 Overall, I'm really happy with how this project turned out — and I had a lot of fun with it, especially given the quirky nature of the dataset. One of the strongest elements was the structure of the metrics and the creative comparisons — particularly turning average pocket money into a benchmark for tooth value. I also feel good about my time management; I was able to plan, build, and wrap up the entire thing smoothly. If I had more data (like region, age group, or real economic indicators), this could have gone even further — but for a fast, focused portfolio piece, I think it nails the brief.
 
